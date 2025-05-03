@@ -16,12 +16,12 @@ Currently focused on:
 ---
 
 ###  Projects
-- **PyTorch NST**  
-    -A PyTorch implementation of Gatys et al.’s Neural Style Transfer (A Neural Algorithm of Artistic Style) supporting both CPUs and NVIDIA GPUs 
+* **PyTorch NST**  
+    * A PyTorch implementation of Gatys et al.’s Neural Style Transfer (A Neural Algorithm of Artistic Style) supporting both CPUs and NVIDIA GPUs 
 GitHub
-    -It performs automatic multi‑scale (coarse‑to‑fine) stylization to produce high‑quality, high‑resolution outputs—even up to print resolution on capable GPU setups 
+    * It performs automatic multi‑scale (coarse‑to‑fine) stylization to produce high‑quality, high‑resolution outputs—even up to print resolution on capable GPU setups 
 GitHub
-    -Key enhancements include replicated padding in VGG‑19, empirically scaled pooling, Wasserstein‑2 style loss, and warm‑started Adam across scales for improved visual quality 
+    * Key enhancements include replicated padding in VGG‑19, empirically scaled pooling, Wasserstein‑2 style loss, and warm‑started Adam across scales for improved visual quality 
 
 - **Credit Card Fraud Detection**  
   Applied machine learning techniques on an imbalanced dataset to accurately detect frauds.
