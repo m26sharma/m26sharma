@@ -4,14 +4,13 @@
 📍 Civil Engineering | Passionate about **Data Science & Machine Learning**  
 🌱 Currently focused on:  
 &nbsp;&nbsp;&nbsp;&nbsp;🔹 Building ML models on real-world datasets  
-&nbsp;&nbsp;&nbsp;&nbsp;🔹 Fitness journey (muscle gain 💪)  
-&nbsp;&nbsp;&nbsp;&nbsp;🔹 Exploring full-stack development  
+&nbsp;&nbsp;&nbsp;&nbsp;🔹 Exploring problem solving using aptitude and DSA
 
 ---
 
 ### 🧠 Skills & Interests
-- **Languages**: Python, C++, R, SQL  
-- **Tools & Libraries**: Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn  
+- **Languages**: Python, C++, SQL  
+- **Tools & Libraries**: Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, MySQL
 - **ML Techniques**: Classification, Regression, SVM, KNN, Logistic Regression  
 - **Other**: Git, Excel, Power BI, Tableau  
 
